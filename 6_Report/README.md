@@ -89,7 +89,29 @@ It can be implemented in a business strategy to help improve it. Business strate
 |LR08 |If the total number of moves, i.e., 9 moves have been completed and neithe the user nor the computer has won, it'll end up in a draw. |HR06 |
 ||||
 ## SWOT ANALYSIS![swot1](https://user-images.githubusercontent.com/94157594/142618767-dfc8280f-5cdc-4a4b-84a0-aef6c37b2eac.png)
-## Defining system
- ![flowchart1](https://user-images.githubusercontent.com/94157594/142607595-d81b3efc-1e52-4956-b3f5-8a2d93265531.png)
- 
+ # Architecture
+## Behavioural diagram
+![behavioural](https://user-images.githubusercontent.com/94157594/143273473-3062e7b1-3a4f-4663-939a-45ee1666e32e.png)
+## structural diagram
+ ![structural](https://user-images.githubusercontent.com/94157594/143273541-013ca7f2-5df2-4101-87f7-1cdf0f48975e.png)
+# Implementation
+## Introduction
+This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program
+## Instructions to execute
+1.Clone my repository
+2.Go to 3_Implementation folder
+3.Make sure your system meets all software and hardware requirements
+4.Run "make run" command in terminal for main code execution
+5.Run "make run_test" command in terminal for test code execution.
+# Folder Structure
+|Column 1 Header |Column 2 Header |
+|--- |--- |
+|Inc |All header files|
+| | |
+|Src |Main source code for system|
+| | |
+|test |All source code and data for testing purposes|
+| | |
+
+
 
