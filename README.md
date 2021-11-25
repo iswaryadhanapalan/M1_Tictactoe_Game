@@ -3,4 +3,5 @@ Tic-tac-toe, also known as noughts and crosses, or Xs and Os/“X’y O’sies�
 # Code inspector badges
 | ![code quality score](https://api.codiga.io/project/29985/score/svg) | ![code grade](https://api.codiga.io/project/29985/status/svg)
 [![Code Quality - Static Code - Cppcheck](https://github.com/iswaryadhanapalan/M1_Tictactoe_Game/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/iswaryadhanapalan/M1_Tictactoe_Game/actions/workflows/cppcheck.yml)
+[![Git Inspector](https://github.com/iswaryadhanapalan/M1_Tictactoe_Game/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/iswaryadhanapalan/M1_Tictactoe_Game/actions/workflows/Git_inspector.yml)
 
